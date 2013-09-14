@@ -6,5 +6,5 @@
  * To change this template use File | Settings | File Templates.
  */
 public class Main {
-  int i;
+  int i=0;
 }
